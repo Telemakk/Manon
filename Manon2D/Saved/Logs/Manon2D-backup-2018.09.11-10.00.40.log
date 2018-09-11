@@ -1,0 +1,1078 @@
+﻿Log file open, 09/11/18 01:27:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Manon2D
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.171750
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.530s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 7 (Service Pack 1), CPU:        Intel(R) Core(TM) i5-3570K CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 660 Ti
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: E:/UnrealEngine/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.10-23.27.50:392][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.10-23.27.50:392][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.10-23.27.50:437][  0]LogHAL: Display: Platform has ~ 16 GB [17140350976 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.10-23.27.50:437][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.10-23.27.50:437][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.10-23.27.50:438][  0]LogInit: Computer: USER-PC
+[2018.09.10-23.27.50:438][  0]LogInit: User: Administrateur
+[2018.09.10-23.27.50:438][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.10-23.27.50:438][  0]LogInit: High frequency timer resolution =3.312841 MHz
+[2018.09.10-23.27.50:438][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.09.10-23.27.50:438][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.10-23.27.50:438][  0]LogMemory: Process Physical Memory: 101.02 MB used, 101.02 MB peak
+[2018.09.10-23.27.50:438][  0]LogMemory: Process Virtual Memory: 92.87 MB used, 92.87 MB peak
+[2018.09.10-23.27.50:438][  0]LogMemory: Physical Memory: 5091.54 MB used,  11254.77 MB free, 16346.31 MB total
+[2018.09.10-23.27.50:438][  0]LogMemory: Virtual Memory: 482.93 MB used,  11254.77 MB free, 8388608.00 MB total
+[2018.09.10-23.27.50:472][  0]LogInit: Using OS detected language (fr-FR).
+[2018.09.10-23.27.50:472][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.09.10-23.27.50:473][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2018.09.10-23.27.50:474][  0]LogStreaming: Display: Took  0.003s to InitEngineTextLocalization.
+[2018.09.10-23.27.50:475][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.09.10-23.27.50:475][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.09.10-23.27.50:475][  0]LogInit: Setting process to DPI aware
+[2018.09.10-23.27.50:502][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.10-23.27.50:502][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.10-23.27.50:710][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.10-23.27.50:710][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.10-23.27.50:734][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 660 Ti' (Feature Level 11_0)
+[2018.09.10-23.27.50:734][  0]LogD3D11RHI:       1988/0/7917 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.09.10-23.27.50:734][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.10-23.27.50:738][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.10-23.27.50:738][  0]LogD3D11RHI:     GPU DeviceId: 0x1183 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.10-23.27.50:738][  0]LogWindows: EnumDisplayDevices:
+[2018.09.10-23.27.50:738][  0]LogWindows:    0. 'NVIDIA GeForce GTX 660 Ti' (P:1 D:1)
+[2018.09.10-23.27.50:738][  0]LogWindows:    1. 'NVIDIA GeForce GTX 660 Ti' (P:0 D:1)
+[2018.09.10-23.27.50:738][  0]LogWindows:    2. 'NVIDIA GeForce GTX 660 Ti' (P:0 D:0)
+[2018.09.10-23.27.50:738][  0]LogWindows:    3. 'NVIDIA GeForce GTX 660 Ti' (P:0 D:0)
+[2018.09.10-23.27.50:739][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2018.09.10-23.27.50:739][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.09.10-23.27.50:739][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.09.10-23.27.50:739][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.09.10-23.27.50:739][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 660 Ti
+[2018.09.10-23.27.50:739][  0]LogD3D11RHI:   Driver Version: 388.59 (internal:23.21.13.8859, unified:388.59)
+[2018.09.10-23.27.50:739][  0]LogD3D11RHI:      Driver Date: 12-5-2017
+[2018.09.10-23.27.50:739][  0]LogRHI: Texture pool is 1391 MB (70% of 1988 MB)
+[2018.09.10-23.27.50:748][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.10-23.27.50:768][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.10-23.27.50:771][  0]LogShaderCompilers: Guid format shader working directory is 20 characters bigger than the processId version (../../../../../GitHub/Manon/Manon2D/Intermediate/Shaders/WorkingDirectory/1032/).
+[2018.09.10-23.27.50:771][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrateur/AppData/Local/Temp/UnrealShaderWorkingDir/FE1AFA934998CDD61D6882A316F4389B/'.
+[2018.09.10-23.27.51:031][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.10-23.27.51:046][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.10-23.27.51:061][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.10-23.27.51:076][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.10-23.27.51:091][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.10-23.27.51:105][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.10-23.27.51:120][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.10-23.27.51:135][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.10-23.27.51:142][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.10-23.27.51:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-23.27.51:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-23.27.51:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-23.27.51:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-23.27.51:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-23.27.51:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-23.27.51:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-23.27.51:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-23.27.51:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-23.27.51:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-23.27.51:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-23.27.51:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-23.27.51:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-23.27.51:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-23.27.51:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-23.27.51:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-23.27.51:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-23.27.51:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-23.27.51:233][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.10-23.27.51:292][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.10-23.27.51:292][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.10-23.27.51:318][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.10-23.27.51:318][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.10-23.27.51:332][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.10-23.27.51:346][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.10-23.27.51:359][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.10-23.27.51:373][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.10-23.27.51:382][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.10-23.27.51:382][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.10-23.27.51:430][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.10-23.27.51:430][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.10-23.27.51:430][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.10-23.27.52:180][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.10-23.27.52:243][  0]LogDerivedDataCache: Loaded boot cache 0.06s 87MB C:/Users/Administrateur/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.10-23.27.52:244][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Administrateur/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.10-23.27.52:244][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitHub/Manon/Manon2D/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.10-23.27.52:244][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.10-23.27.52:244][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitHub/Manon/Manon2D/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.10-23.27.52:244][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.10-23.27.52:257][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.10-23.27.52:268][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrateur/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.10-23.27.52:268][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.10-23.27.52:268][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.10-23.27.52:288][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.10-23.27.52:289][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.10-23.27.52:290][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.10-23.27.52:366][  0]LogAssetRegistry: FAssetRegistry took 0.0255 seconds to start up
+[2018.09.10-23.27.52:730][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.10-23.27.52:871][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.10-23.27.52:874][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.10-23.27.52:874][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.10-23.27.52:874][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.10-23.27.52:874][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.10-23.27.52:892][  0]LogNetVersion: Manon2D 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1838885362)
+[2018.09.10-23.27.53:658][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.328288 seconds
+[2018.09.10-23.27.53:664][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.10-23.27.53:664][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.09.10-23.27.53:664][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.10-23.27.54:554][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.10-23.27.54:566][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.10-23.27.54:705][  0]SourceControl: Source control is disabled
+[2018.09.10-23.27.54:705][  0]SourceControl: Source control is disabled
+[2018.09.10-23.27.54:706][  0]SourceControl: Source control is disabled
+[2018.09.10-23.27.54:707][  0]SourceControl: Source control is disabled
+[2018.09.10-23.27.54:852][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.10-23.27.54:943][  0]LogOcInput: OculusInput pre-init called
+[2018.09.10-23.27.55:008][  0]LogEngine: Initializing Engine...
+[2018.09.10-23.27.55:009][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.10-23.27.55:011][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.10-23.27.55:011][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.10-23.27.55:011][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.10-23.27.55:011][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.10-23.27.55:263][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.10-23.27.55:275][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.10-23.27.55:288][  0]LogInit: XAudio2 using 'Haut-parleurs (SB X-Fi Xtreme Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.10-23.27.55:301][  0]LogInit: FAudioDevice initialized.
+[2018.09.10-23.27.55:301][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.10-23.27.55:430][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/Administrateur/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.10-23.27.55:431][  0]LogInit: Texture streaming: Enabled
+[2018.09.10-23.27.55:446][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.10-23.27.55:455][  0]LogInit: Transaction tracking system initialized
+[2018.09.10-23.27.55:475][  0]BlueprintLog: New page: Editor Load
+[2018.09.10-23.27.55:541][  0]LocalizationService: Localization service is disabled
+[2018.09.10-23.27.55:830][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.10-23.27.55:830][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.10-23.27.55:830][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.10-23.27.55:830][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.10-23.27.55:830][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.10-23.27.55:830][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.10-23.27.55:830][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.10-23.27.55:936][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealEngine/GitHub/Manon/Manon2D/Content/' took 0.01s
+[2018.09.10-23.27.55:936][  0]SourceControl: Source control is disabled
+[2018.09.10-23.27.55:936][  0]Cmd: MAP LOAD FILE="../../../../../GitHub/Manon/Manon2D/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.10-23.27.55:937][  0]LightingResults: New page: Lighting Build
+[2018.09.10-23.27.55:939][  0]MapCheck: New page: Map Check
+[2018.09.10-23.27.55:939][  0]LightingResults: New page: Lighting Build
+[2018.09.10-23.27.56:756][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.09.10-23.27.56:783][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.10-23.27.56:811][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.10-23.27.56:863][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 52,124ms to complete.
+[2018.09.10-23.27.56:863][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.927
+[2018.09.10-23.27.57:462][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-23.27.57:471][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-23.27.57:480][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-23.27.57:489][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-23.27.57:592][  0]LogCollectionManager: Loaded 0 collections in 0.001723 seconds
+[2018.09.10-23.27.57:803][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealEngine/GitHub/Manon/Manon2D/Saved/Collections/' took 0.01s
+[2018.09.10-23.27.57:803][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealEngine/GitHub/Manon/Manon2D/Content/Developers/Administrateur/Collections/' took 0.01s
+[2018.09.10-23.27.57:803][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealEngine/GitHub/Manon/Manon2D/Content/Collections/' took 0.01s
+[2018.09.10-23.27.57:803][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.09.10-23.27.57:817][  0]LogContentBrowser: Native class hierarchy populated in 0.0113 seconds. Added 2572 classes and 603 folders.
+[2018.09.10-23.27.57:944][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.10-23.27.58:672][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.10-23.27.58:719][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.09.10-23.27.59:079][  0]LogSlate: Took 0.000338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.10-23.27.59:084][  0]LogSlate: Took 0.000470 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.10-23.27.59:139][  0]LogSlate: Took 0.004347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.10-23.27.59:642][  0]LogRenderer: Reallocating scene render targets to support 1056x556 Format 10 NumSamples 1 (Frame:1).
+[2018.09.10-23.27.59:852][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.10-23.27.59:852][  0]LogLoad: (Engine Initialization) Total time: 11.88 seconds
+[2018.09.10-23.27.59:852][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.10-23.27.59:906][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.10-23.28.00:050][  1]LogAssetRegistry: Asset discovery search completed in 7.7057 seconds
+[2018.09.10-23.28.00:052][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.09.10-23.28.00:052][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000053 seconds (updated 0 objects)
+[2018.09.10-23.28.04:327][ 60]LogSlate: Took 0.040289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.10-23.28.05:328][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-23.36.26:328][660]LogSlate: Took 0.000313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.10-23.36.26:336][660]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2018.09.10-23.36.27:521][660]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2018.09.10-23.36.29:337][660]LogSlate: Took 0.005526 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.10-23.36.30:087][661]LogSlate: Took 0.001205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.10-23.36.31:787][822]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2018.09.10-23.36.31:789][822]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2018.09.10-23.36.33:955][ 54]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Manon2D/BluePrint/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2018.09.10-23.39.35:596][615]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2018.09.10-23.39.35:598][615]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2018.09.10-23.39.42:386][404]LogMetaData: Removing '/Game/Manon2D/BluePrint/BP_MAnon.BP_MAnon_C' ref from Metadata '/Game/Manon2D/BluePrint/2DSideScrollerCharacter.PackageMetaData'
+[2018.09.10-23.39.42:386][404]LogMetaData: Removing '/Game/Manon2D/BluePrint/BP_MAnon.SKEL_BP_MAnon_C' ref from Metadata '/Game/Manon2D/BluePrint/2DSideScrollerCharacter.PackageMetaData'
+[2018.09.10-23.39.42:442][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/BluePrint/BP_MAnon" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/BluePrint/BP_MAnon.uasset" SILENT=true
+[2018.09.10-23.39.42:505][404]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/BP_MAnon6CCFDA874914249F6B587885B20AC3D8.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/BluePrint/BP_MAnon.uasset'
+[2018.09.10-23.39.47:864][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/BluePrint/BP_MAnon" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/BluePrint/BP_MAnon.uasset" SILENT=true
+[2018.09.10-23.39.47:902][  7]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/BP_MAnon4D3CF97A44999C47FFBA6396C35DBAFA.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/BluePrint/BP_MAnon.uasset'
+[2018.09.10-23.40.15:615][309]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Manon2D/BluePrint/BP_MAnon.BP_Manon
+[2018.09.10-23.40.28:838][678]LogSlate: Window 'BP_Manon' being destroyed
+[2018.09.10-23.40.28:840][678]LogSlate: Window 'BP_Manon' being destroyed
+[2018.09.10-23.41.21:965][889]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2018.09.10-23.41.31:891][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-23.42.05:691][193]LogSlate: Window 'New Level' being destroyed
+[2018.09.10-23.42.05:717][193]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.10-23.42.05:756][193]LightingResults: New page: Lighting Build
+[2018.09.10-23.42.05:757][193]LoadErrors: New page: Loading map: Template_Default.umap
+[2018.09.10-23.42.05:760][193]MapCheck: New page: Map Check
+[2018.09.10-23.42.05:760][193]LightingResults: New page: Lighting Build
+[2018.09.10-23.42.05:955][193]LogAIModule: Creating AISystem for world Untitled_1
+[2018.09.10-23.42.06:047][193]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.10-23.42.06:083][193]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.10-23.42.06:141][193]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58,345ms to complete.
+[2018.09.10-23.42.06:141][193]LogFileHelpers: Loading map 'Template_Default' took 0.426
+[2018.09.10-23.42.37:556][ 32]LogSlate: Window 'Save Level As' being destroyed
+[2018.09.10-23.42.37:666][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Maps/Level_00" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Maps/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.10-23.42.37:714][ 32]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Level_005B0FC0544015355C161156ACE29FF1BF.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Maps/Level_00.umap'
+[2018.09.10-23.42.38:137][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Maps/Level_00_BuiltData" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Maps/Level_00_BuiltData.uasset" SILENT=true
+[2018.09.10-23.42.38:163][ 32]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Level_00_BuiltData3616B40C44314A73B4289192543340D4.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Maps/Level_00_BuiltData.uasset'
+[2018.09.10-23.42.38:173][ 32]LogFileHelpers: Saving map 'Level_00' took 0.611
+[2018.09.10-23.42.38:175][ 32]Cmd: MAP LOAD FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Maps/Level_00.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.10-23.42.38:197][ 32]LightingResults: New page: Lighting Build
+[2018.09.10-23.42.38:198][ 32]LoadErrors: New page: Loading map: Level_00.umap
+[2018.09.10-23.42.38:198][ 32]MapCheck: New page: Map Check
+[2018.09.10-23.42.38:198][ 32]LightingResults: New page: Lighting Build
+[2018.09.10-23.42.38:244][ 32]LogAIModule: Creating AISystem for world Level_00
+[2018.09.10-23.42.38:316][ 32]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.10-23.42.38:360][ 32]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.10-23.42.38:419][ 32]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58,897ms to complete.
+[2018.09.10-23.42.38:419][ 32]LogFileHelpers: Loading map 'Level_00' took 0.246
+[2018.09.10-23.42.53:503][818]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.10-23.42.55:795][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.10-23.42.57:935][ 91]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.09.10-23.42.58:059][ 92]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Manon2D
+[2018.09.10-23.42.58:060][ 92]LogTemp: CWD: E:\UnrealEngine\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.10-23.42.58:060][ 92]LogTemp: Initial Dir: E:\UnrealEngine\Epic Games\UE_4.20
+[2018.09.10-23.42.58:060][ 92]LogTemp: Env CWD: E:\UnrealEngine\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.10-23.42.58:060][ 92]LogTemp: BranchPath = USER-PC/E/UnrealEngine/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = USER-PC/E/UnrealEngine/Epic Games/UE_4.20/Engine/Binaries
+[2018.09.10-23.42.58:060][ 92]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Administrateur\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.09.10-23.44.02:048][209]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.10-23.44.02:050][209]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.10-23.44.03:042][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-23.44.03:151][338]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.10-23.44.03:180][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.10-23.44.03:199][338]PIE: New page: PIE session: Level_00 (11 sept. 2018 03:44:03)
+[2018.09.10-23.44.03:199][338]LogPlayLevel: Creating play world package: /Game/Manon2D/Maps/UEDPIE_0_Level_00
+[2018.09.10-23.44.03:221][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022120s)
+[2018.09.10-23.44.03:226][338]LogAIModule: Creating AISystem for world Level_00
+[2018.09.10-23.44.03:226][338]LogPlayLevel: PIE: World Init took: (0.000697s)
+[2018.09.10-23.44.03:226][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Manon2D/Maps/Level_00.Level_00 to /Game/Manon2D/Maps/UEDPIE_0_Level_00.Level_00 (0.026555s)
+[2018.09.10-23.44.03:260][338]LogInit: XAudio2 using 'Haut-parleurs (SB X-Fi Xtreme Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.10-23.44.03:272][338]LogInit: FAudioDevice initialized.
+[2018.09.10-23.44.03:321][338]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.10-23.44.03:335][338]LogWorld: Bringing World /Game/Manon2D/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.09.11-01.44.03
+[2018.09.10-23.44.03:336][338]LogWorld: Bringing up level for play took: 0.001347
+[2018.09.10-23.44.03:417][338]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 10 classes and 0 folders.
+[2018.09.10-23.44.03:420][338]PIE: Play in editor start time for /Game/Manon2D/Maps/UEDPIE_0_Level_00 -0,038
+[2018.09.10-23.44.14:548][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-23.44.14:581][657]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.10-23.44.14:607][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-23.44.14:654][661]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.09.10-23.44.33:288][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-23.44.54:824][839]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Administrateur\Downloads\Walk.png)
+[2018.09.10-23.44.54:837][839]LogTexture: Display: Building textures: Walk (AutoDXT, 96X96)
+[2018.09.10-23.44.58:593][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-23.45.07:279][899]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Manon2D/Sprites/Walk.Walk
+[2018.09.10-23.45.07:357][899]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.09.10-23.45.13:333][572]LogSlate: Window 'Walk*' being destroyed
+[2018.09.10-23.45.13:336][572]LogSlate: Window 'Walk*' being destroyed
+[2018.09.10-23.47.52:545][334]AssetReimport: New page: Detailed File System Changes from 01:47:52
+[2018.09.10-23.47.52:556][334]AssetReimport: 'E:/UnrealEngine/GitHub/Manon/Manon2D/Content/Source/Walk.png' has been created.
+[2018.09.10-23.48.06:502][578]LogSlate: Window 'Message Log' being destroyed
+[2018.09.10-23.48.06:503][578]LogSlate: Window 'Message Log' being destroyed
+[2018.09.10-23.48.10:886][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/Walk" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Walk.uasset" SILENT=true
+[2018.09.10-23.48.10:908][ 95]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/WalkAC4F869E4BBCB0F977927BB4B1DBB4B9.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Walk.uasset'
+[2018.09.10-23.48.10:921][ 95]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/2DSideScrollerGameMode46ADBF584232A0293B7D1BBD22275E90.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset'
+[2018.09.10-23.50.30:699][734]LogTexture: Display: Building textures: Walk (BGRA8, 96X96)
+[2018.09.10-23.50.32:553][954]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Manon2D/Sprites/Walk.Walk
+[2018.09.10-23.51.11:911][566]LogSlate: Window 'Walk*' being destroyed
+[2018.09.10-23.51.11:914][566]LogSlate: Window 'Walk*' being destroyed
+[2018.09.10-23.51.23:522][901]LogSlate: Window 'Extract sprites' being destroyed
+[2018.09.10-23.51.35:828][367]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Manon2D/Sprites/Walk_Sprite_0.Walk_Sprite_0
+[2018.09.10-23.51.49:827][671]LogSlate: Window 'Walk_Sprite_5*' being destroyed
+[2018.09.10-23.51.49:831][671]LogSlate: Window 'Walk_Sprite_5*' being destroyed
+[2018.09.10-23.52.14:348][415]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.10-23.52.25:967][760]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Manon2D/Sprites/Walk_Sprite.Walk_Sprite
+[2018.09.10-23.52.28:405][ 10]LogSlate: Window 'Walk_Sprite*' being destroyed
+[2018.09.10-23.52.28:409][ 10]LogSlate: Window 'Walk_Sprite*' being destroyed
+[2018.09.10-23.52.31:550][243]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.10-23.52.40:019][229]LogAssetEditorManager: Opening Asset editor for PaperTileSet /Game/Manon2D/Sprites/Walk_TileSet.Walk_TileSet
+[2018.09.10-23.52.41:723][404]LogSlate: Window 'Walk_TileSet*' being destroyed
+[2018.09.10-23.52.41:726][404]LogSlate: Window 'Walk_TileSet*' being destroyed
+[2018.09.10-23.52.44:095][546]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.10-23.53.28:711][896]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Manon2D/Maps/Level_00' took 0.023
+[2018.09.10-23.53.29:102][896]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Manon2D/Sprites/Walk] ([1] browsable assets)...
+[2018.09.10-23.53.29:111][896]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Manon2D/Sprites/Walk.Walk]
+[2018.09.10-23.53.29:111][896]OBJ SavePackage: Finished generating thumbnails for package [/Game/Manon2D/Sprites/Walk]
+[2018.09.10-23.53.29:111][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/Walk" FILE="../../../../../GitHub/Manon/Manon2D/Saved/Autosaves/Game/Manon2D/Sprites/Walk_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.09.10-23.53.29:122][896]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Walk_Auto1BC71AC61446014DCABCB37AD03BFEFCF.tmp' to '../../../../../GitHub/Manon/Manon2D/Saved/Autosaves/Game/Manon2D/Sprites/Walk_Auto1.uasset'
+[2018.09.10-23.53.29:124][896]LogFileHelpers: Auto-saving content packages took 0.412
+[2018.09.10-23.53.31:637][192]LogSlate: Window 'Extract sprites' being destroyed
+[2018.09.10-23.53.35:379][629]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Manon2D/Sprites/Walk_Sprite_0.Walk_Sprite_0
+[2018.09.10-23.53.51:274][ 45]Cmd: MODE GRID=0
+[2018.09.10-23.53.51:880][106]Cmd: MODE GRID=1
+[2018.09.10-23.57.07:278][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/Walk_Sprite_2" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Walk_Sprite_2.uasset" SILENT=true
+[2018.09.10-23.57.07:284][ 39]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Walk_Sprite_244A24211472FC770F53D4482ADC716C5.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Walk_Sprite_2.uasset'
+[2018.09.10-23.57.08:604][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/Walk_Sprite_2" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Walk_Sprite_2.uasset" SILENT=true
+[2018.09.10-23.57.09:010][167]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Walk_Sprite_2A1E04D834F808499A8620AB44D5EB67E.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Walk_Sprite_2.uasset'
+[2018.09.10-23.57.12:485][508]LogSlate: Window 'Walk_Sprite_2' being destroyed
+[2018.09.10-23.57.12:488][508]LogSlate: Window 'Walk_Sprite_2' being destroyed
+[2018.09.10-23.59.04:957][364]LogSlate: Window '7 PaperSprite* Objects - Property Matrix Editor' being destroyed
+[2018.09.10-23.59.04:961][364]LogSlate: Window '7 PaperSprite* Objects - Property Matrix Editor' being destroyed
+[2018.09.10-23.59.12:448][257]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Manon2D/Sprites/Walk_Sprite_1.Walk_Sprite_1
+[2018.09.10-23.59.12:583][258]LogRenderer: Reallocating scene render targets to support 1064x556 Format 10 NumSamples 1 (Frame:1).
+[2018.09.10-23.59.26:294][582]LogSlate: Window 'Walk_Sprite_1*' being destroyed
+[2018.09.10-23.59.26:297][582]LogSlate: Window 'Walk_Sprite_1*' being destroyed
+[2018.09.10-23.59.29:547][965]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Manon2D/Sprites/Walk_Sprite_3.Walk_Sprite_3
+[2018.09.10-23.59.51:952][189]Cmd: TRANSACTION UNDO
+[2018.09.10-23.59.51:952][189]LogEditorTransaction: Undo Edit Y
+[2018.09.10-23.59.54:051][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-23.59.54:160][396]LogSlate: Window 'Walk_Sprite_3*' being destroyed
+[2018.09.10-23.59.54:163][396]LogSlate: Window 'Walk_Sprite_3*' being destroyed
+[2018.09.10-23.59.55:422][540]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Manon2D/Sprites/Walk_Sprite_0.Walk_Sprite_0
+[2018.09.10-23.59.59:501][929]LogSlate: Window 'Walk_Sprite_0*' being destroyed
+[2018.09.10-23.59.59:505][929]LogSlate: Window 'Walk_Sprite_0*' being destroyed
+[2018.09.11-00.00.01:493][163]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Manon2D/Sprites/Walk_Sprite_2.Walk_Sprite_2
+[2018.09.11-00.00.03:558][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.00.03:665][362]LogSlate: Window 'Walk_Sprite_2*' being destroyed
+[2018.09.11-00.00.03:668][362]LogSlate: Window 'Walk_Sprite_2*' being destroyed
+[2018.09.11-00.00.05:674][597]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Manon2D/Sprites/Walk_Sprite_1.Walk_Sprite_1
+[2018.09.11-00.00.10:407][ 63]LogSlate: Window 'Walk_Sprite_1*' being destroyed
+[2018.09.11-00.00.10:410][ 63]LogSlate: Window 'Walk_Sprite_1*' being destroyed
+[2018.09.11-00.00.12:481][306]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Manon2D/Sprites/Walk_Sprite_8.Walk_Sprite_8
+[2018.09.11-00.00.16:634][708]LogSlate: Window 'Walk_Sprite_8*' being destroyed
+[2018.09.11-00.00.16:637][708]LogSlate: Window 'Walk_Sprite_8*' being destroyed
+[2018.09.11-00.00.18:523][929]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Manon2D/Sprites/Walk_Sprite_0.Walk_Sprite_0
+[2018.09.11-00.00.27:474][738]LogSlate: Window 'Walk_Sprite_3*' being destroyed
+[2018.09.11-00.00.27:480][738]LogSlate: Window 'Walk_Sprite_3*' being destroyed
+[2018.09.11-00.01.09:821][224]LogSlate: Window '8 PaperSprite* Objects - Property Matrix Editor' being destroyed
+[2018.09.11-00.01.09:824][224]LogSlate: Window '8 PaperSprite* Objects - Property Matrix Editor' being destroyed
+[2018.09.11-00.01.13:101][613]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Manon2D/Sprites/Walk_Sprite_0.Walk_Sprite_0
+[2018.09.11-00.01.24:846][581]LogSlate: Window 'Walk_Sprite_4*' being destroyed
+[2018.09.11-00.01.24:851][581]LogSlate: Window 'Walk_Sprite_4*' being destroyed
+[2018.09.11-00.01.41:358][257]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.11-00.02.13:108][967]LogSlate: Window 'Extract sprites' being destroyed
+[2018.09.11-00.02.39:649][762]LogSlate: Window '9 PaperSprite* Objects - Property Matrix Editor' being destroyed
+[2018.09.11-00.02.39:652][762]LogSlate: Window '9 PaperSprite* Objects - Property Matrix Editor' being destroyed
+[2018.09.11-00.02.53:689][441]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Manon2D/Sprites/Walk_Sprite_0.Walk_Sprite_0
+[2018.09.11-00.04.17:630][ 98]LogRenderer: Reallocating scene render targets to support 1336x888 Format 10 NumSamples 1 (Frame:7669).
+[2018.09.11-00.04.44:488][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.04.59:706][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.05.07:077][510]LogSlate: Window 'Walk_Sprite_0*' being destroyed
+[2018.09.11-00.05.07:080][510]LogSlate: Window 'Walk_Sprite_0*' being destroyed
+[2018.09.11-00.05.16:306][308]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.11-00.06.00:104][462]LogSlate: Window 'Extract sprites' being destroyed
+[2018.09.11-00.07.16:774][461]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Manon2D/Maps/Level_00' took 0.026
+[2018.09.11-00.07.16:776][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Manon2D/Sprites/Walk_Sprite_1] ([1] browsable assets)...
+[2018.09.11-00.07.16:785][461]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Manon2D/Sprites/Walk_Sprite_1.Walk_Sprite_1]
+[2018.09.11-00.07.16:785][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/Manon2D/Sprites/Walk_Sprite_1]
+[2018.09.11-00.07.16:785][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/Walk_Sprite_1" FILE="../../../../../GitHub/Manon/Manon2D/Saved/Autosaves/Game/Manon2D/Sprites/Walk_Sprite_1_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.09.11-00.07.16:791][461]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Walk_Sprite_1_Auto2C46BAA3C4B5BFF29F3D48781E308940C.tmp' to '../../../../../GitHub/Manon/Manon2D/Saved/Autosaves/Game/Manon2D/Sprites/Walk_Sprite_1_Auto2.uasset'
+[2018.09.11-00.07.16:793][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Manon2D/Sprites/Walk_Sprite_2] ([1] browsable assets)...
+[2018.09.11-00.07.16:802][461]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Manon2D/Sprites/Walk_Sprite_2.Walk_Sprite_2]
+[2018.09.11-00.07.16:802][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/Manon2D/Sprites/Walk_Sprite_2]
+[2018.09.11-00.07.16:802][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/Walk_Sprite_2" FILE="../../../../../GitHub/Manon/Manon2D/Saved/Autosaves/Game/Manon2D/Sprites/Walk_Sprite_2_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.09.11-00.07.16:807][461]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Walk_Sprite_2_Auto21AD726A74D2CAB3C6A8B38AEA650DD4F.tmp' to '../../../../../GitHub/Manon/Manon2D/Saved/Autosaves/Game/Manon2D/Sprites/Walk_Sprite_2_Auto2.uasset'
+[2018.09.11-00.07.16:809][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Manon2D/Sprites/Walk_Sprite_0] ([1] browsable assets)...
+[2018.09.11-00.07.16:818][461]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Manon2D/Sprites/Walk_Sprite_0.Walk_Sprite_0]
+[2018.09.11-00.07.16:818][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/Manon2D/Sprites/Walk_Sprite_0]
+[2018.09.11-00.07.16:818][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/Walk_Sprite_0" FILE="../../../../../GitHub/Manon/Manon2D/Saved/Autosaves/Game/Manon2D/Sprites/Walk_Sprite_0_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.09.11-00.07.17:279][461]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Walk_Sprite_0_Auto276C6062945146C65A0BC33A6F26C3D23.tmp' to '../../../../../GitHub/Manon/Manon2D/Saved/Autosaves/Game/Manon2D/Sprites/Walk_Sprite_0_Auto2.uasset'
+[2018.09.11-00.07.17:285][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Manon2D/Sprites/Walk_Sprite_3] ([1] browsable assets)...
+[2018.09.11-00.07.17:301][461]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Manon2D/Sprites/Walk_Sprite_3.Walk_Sprite_3]
+[2018.09.11-00.07.17:301][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/Manon2D/Sprites/Walk_Sprite_3]
+[2018.09.11-00.07.17:301][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/Walk_Sprite_3" FILE="../../../../../GitHub/Manon/Manon2D/Saved/Autosaves/Game/Manon2D/Sprites/Walk_Sprite_3_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.09.11-00.07.17:386][461]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Walk_Sprite_3_Auto251D5EE34466886433E40BAAE4F7CFAE7.tmp' to '../../../../../GitHub/Manon/Manon2D/Saved/Autosaves/Game/Manon2D/Sprites/Walk_Sprite_3_Auto2.uasset'
+[2018.09.11-00.07.17:392][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Manon2D/Sprites/Walk_Sprite_4] ([1] browsable assets)...
+[2018.09.11-00.07.17:410][461]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Manon2D/Sprites/Walk_Sprite_4.Walk_Sprite_4]
+[2018.09.11-00.07.17:410][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/Manon2D/Sprites/Walk_Sprite_4]
+[2018.09.11-00.07.17:410][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/Walk_Sprite_4" FILE="../../../../../GitHub/Manon/Manon2D/Saved/Autosaves/Game/Manon2D/Sprites/Walk_Sprite_4_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.09.11-00.07.17:421][461]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Walk_Sprite_4_Auto2ED051EE04C50AA59A92E69AAE4F4F41B.tmp' to '../../../../../GitHub/Manon/Manon2D/Saved/Autosaves/Game/Manon2D/Sprites/Walk_Sprite_4_Auto2.uasset'
+[2018.09.11-00.07.17:426][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Manon2D/Sprites/Walk_Sprite_5] ([1] browsable assets)...
+[2018.09.11-00.07.17:441][461]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Manon2D/Sprites/Walk_Sprite_5.Walk_Sprite_5]
+[2018.09.11-00.07.17:441][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/Manon2D/Sprites/Walk_Sprite_5]
+[2018.09.11-00.07.17:441][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/Walk_Sprite_5" FILE="../../../../../GitHub/Manon/Manon2D/Saved/Autosaves/Game/Manon2D/Sprites/Walk_Sprite_5_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.09.11-00.07.17:450][461]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Walk_Sprite_5_Auto25936B3D0490A583116917BBB1AEA4288.tmp' to '../../../../../GitHub/Manon/Manon2D/Saved/Autosaves/Game/Manon2D/Sprites/Walk_Sprite_5_Auto2.uasset'
+[2018.09.11-00.07.17:454][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Manon2D/Sprites/Walk_Sprite_6] ([1] browsable assets)...
+[2018.09.11-00.07.17:468][461]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Manon2D/Sprites/Walk_Sprite_6.Walk_Sprite_6]
+[2018.09.11-00.07.17:468][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/Manon2D/Sprites/Walk_Sprite_6]
+[2018.09.11-00.07.17:469][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/Walk_Sprite_6" FILE="../../../../../GitHub/Manon/Manon2D/Saved/Autosaves/Game/Manon2D/Sprites/Walk_Sprite_6_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.09.11-00.07.17:477][461]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Walk_Sprite_6_Auto20F4336434D8EA8239A01FAAA46D864D1.tmp' to '../../../../../GitHub/Manon/Manon2D/Saved/Autosaves/Game/Manon2D/Sprites/Walk_Sprite_6_Auto2.uasset'
+[2018.09.11-00.07.17:479][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Manon2D/Sprites/Walk_Sprite_7] ([1] browsable assets)...
+[2018.09.11-00.07.17:492][461]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Manon2D/Sprites/Walk_Sprite_7.Walk_Sprite_7]
+[2018.09.11-00.07.17:492][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/Manon2D/Sprites/Walk_Sprite_7]
+[2018.09.11-00.07.17:492][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/Walk_Sprite_7" FILE="../../../../../GitHub/Manon/Manon2D/Saved/Autosaves/Game/Manon2D/Sprites/Walk_Sprite_7_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.09.11-00.07.17:499][461]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Walk_Sprite_7_Auto202D701BB42E2280EBA29529436D54EC9.tmp' to '../../../../../GitHub/Manon/Manon2D/Saved/Autosaves/Game/Manon2D/Sprites/Walk_Sprite_7_Auto2.uasset'
+[2018.09.11-00.07.17:502][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Manon2D/Sprites/Walk_Sprite_8] ([1] browsable assets)...
+[2018.09.11-00.07.17:513][461]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Manon2D/Sprites/Walk_Sprite_8.Walk_Sprite_8]
+[2018.09.11-00.07.17:513][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/Manon2D/Sprites/Walk_Sprite_8]
+[2018.09.11-00.07.17:513][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/Walk_Sprite_8" FILE="../../../../../GitHub/Manon/Manon2D/Saved/Autosaves/Game/Manon2D/Sprites/Walk_Sprite_8_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.09.11-00.07.17:520][461]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Walk_Sprite_8_Auto2E72835A94F64C79520F755A1AECCB3A4.tmp' to '../../../../../GitHub/Manon/Manon2D/Saved/Autosaves/Game/Manon2D/Sprites/Walk_Sprite_8_Auto2.uasset'
+[2018.09.11-00.07.17:521][461]LogFileHelpers: Auto-saving content packages took 0.746
+[2018.09.11-00.08.15:403][901]LogSlate: Window '9 PaperSprite* Objects - Property Matrix Editor' being destroyed
+[2018.09.11-00.08.15:406][901]LogSlate: Window '9 PaperSprite* Objects - Property Matrix Editor' being destroyed
+[2018.09.11-00.10.30:707][436]LogSlate: Window 'Extract sprites' being destroyed
+[2018.09.11-00.10.36:634][959]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.11-00.11.00:690][316]LogSlate: Window '8 PaperSprite* Objects - Property Matrix Editor' being destroyed
+[2018.09.11-00.11.00:693][316]LogSlate: Window '8 PaperSprite* Objects - Property Matrix Editor' being destroyed
+[2018.09.11-00.11.42:878][167]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Manon2D/Sprites/Run.Run
+[2018.09.11-00.12.06:000][594]Cmd: TRANSACTION UNDO
+[2018.09.11-00.12.06:000][594]LogEditorTransaction: Undo Edit Pivot Mode
+[2018.09.11-00.12.07:731][745]Cmd: TRANSACTION UNDO
+[2018.09.11-00.12.07:731][745]LogEditorTransaction: Undo Edit Cell Height
+[2018.09.11-00.12.16:721][664]LogSlate: Window 'Run*' being destroyed
+[2018.09.11-00.12.16:724][664]LogSlate: Window 'Run*' being destroyed
+[2018.09.11-00.12.23:681][332]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Manon2D/Sprites/Run.Run
+[2018.09.11-00.12.58:331][451]LogSlate: Window 'Run*' being destroyed
+[2018.09.11-00.12.58:335][451]LogSlate: Window 'Run*' being destroyed
+[2018.09.11-00.13.03:615][943]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.11-00.13.21:994][759]LogSlate: Window '8 PaperSprite* Objects - Property Matrix Editor' being destroyed
+[2018.09.11-00.13.21:998][759]LogSlate: Window '8 PaperSprite* Objects - Property Matrix Editor' being destroyed
+[2018.09.11-00.13.38:313][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/Walk" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Walk.uasset" SILENT=true
+[2018.09.11-00.13.38:320][687]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/WalkCCCE105540788ECB751407B7C65C51DA.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Walk.uasset'
+[2018.09.11-00.13.38:332][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/Walk_Sprite_1" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Walk_Sprite_1.uasset" SILENT=true
+[2018.09.11-00.13.38:338][687]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Walk_Sprite_1EA7273C2466CD21FAFD0F2837E7CD426.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Walk_Sprite_1.uasset'
+[2018.09.11-00.13.38:350][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/Walk_Sprite_2" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Walk_Sprite_2.uasset" SILENT=true
+[2018.09.11-00.13.38:368][687]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Walk_Sprite_2547802714313E39DF7ACC0B0C08E3005.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Walk_Sprite_2.uasset'
+[2018.09.11-00.13.38:381][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/Walk_Sprite_0" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Walk_Sprite_0.uasset" SILENT=true
+[2018.09.11-00.13.38:386][687]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Walk_Sprite_0FA1BB8DB450E505299214CBC4A73D08B.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Walk_Sprite_0.uasset'
+[2018.09.11-00.13.38:399][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/Walk_Sprite_3" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Walk_Sprite_3.uasset" SILENT=true
+[2018.09.11-00.13.38:404][687]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Walk_Sprite_370D474514EF13597A817069DBA9571A1.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Walk_Sprite_3.uasset'
+[2018.09.11-00.13.38:417][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/Walk_Sprite_4" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Walk_Sprite_4.uasset" SILENT=true
+[2018.09.11-00.13.38:422][687]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Walk_Sprite_4BA6B0DAE4528E6E205E02C956F6150F9.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Walk_Sprite_4.uasset'
+[2018.09.11-00.13.38:435][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/Walk_Sprite_5" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Walk_Sprite_5.uasset" SILENT=true
+[2018.09.11-00.13.38:440][687]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Walk_Sprite_5FD925D134664150B2D54648B32DDFFFC.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Walk_Sprite_5.uasset'
+[2018.09.11-00.13.38:453][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/Walk_Sprite_6" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Walk_Sprite_6.uasset" SILENT=true
+[2018.09.11-00.13.38:459][687]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Walk_Sprite_607BF190E47A5AA302ABF0C89D89414FA.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Walk_Sprite_6.uasset'
+[2018.09.11-00.13.38:471][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/Walk_Sprite_7" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Walk_Sprite_7.uasset" SILENT=true
+[2018.09.11-00.13.38:477][687]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Walk_Sprite_72609AF2141B7FF89FA968F9695FC3A55.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Walk_Sprite_7.uasset'
+[2018.09.11-00.13.38:490][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/Walk_Sprite_8" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Walk_Sprite_8.uasset" SILENT=true
+[2018.09.11-00.13.38:495][687]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Walk_Sprite_8B4819FD64692AC17ED62D082ABA401D8.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Walk_Sprite_8.uasset'
+[2018.09.11-00.13.38:511][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/monsieurtoutnu_clone_Sprite_0" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/monsieurtoutnu_clone_Sprite_0.uasset" SILENT=true
+[2018.09.11-00.13.38:516][687]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/monsieurtoutnu_clone_Sprite_082DDEDF643EB7726B7063981BBC74E52.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/monsieurtoutnu_clone_Sprite_0.uasset'
+[2018.09.11-00.13.38:531][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/monsieurtoutnu_clone_Sprite_1" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/monsieurtoutnu_clone_Sprite_1.uasset" SILENT=true
+[2018.09.11-00.13.38:537][687]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/monsieurtoutnu_clone_Sprite_127247B034EF5ADDD12D1CB9DE8DF2E7C.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/monsieurtoutnu_clone_Sprite_1.uasset'
+[2018.09.11-00.13.38:549][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/monsieurtoutnu_clone_Sprite_2" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/monsieurtoutnu_clone_Sprite_2.uasset" SILENT=true
+[2018.09.11-00.13.38:555][687]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/monsieurtoutnu_clone_Sprite_20EC75D1E45C95844CB31AA8FD9C5F15D.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/monsieurtoutnu_clone_Sprite_2.uasset'
+[2018.09.11-00.13.38:569][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/monsieurtoutnu_clone_Sprite_3" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/monsieurtoutnu_clone_Sprite_3.uasset" SILENT=true
+[2018.09.11-00.13.38:575][687]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/monsieurtoutnu_clone_Sprite_3A85CA8F44AE6FAD5F85E3296196E89DB.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/monsieurtoutnu_clone_Sprite_3.uasset'
+[2018.09.11-00.13.38:589][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/monsieurtoutnu_clone_Sprite_4" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/monsieurtoutnu_clone_Sprite_4.uasset" SILENT=true
+[2018.09.11-00.13.38:595][687]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/monsieurtoutnu_clone_Sprite_482953BFC45D4E48927F2C59B428B39F3.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/monsieurtoutnu_clone_Sprite_4.uasset'
+[2018.09.11-00.13.38:609][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/monsieurtoutnu_clone_Sprite_5" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/monsieurtoutnu_clone_Sprite_5.uasset" SILENT=true
+[2018.09.11-00.13.38:615][687]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/monsieurtoutnu_clone_Sprite_57ECC837047102679259B859148C557B8.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/monsieurtoutnu_clone_Sprite_5.uasset'
+[2018.09.11-00.13.38:629][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/monsieurtoutnu_clone_Sprite_6" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/monsieurtoutnu_clone_Sprite_6.uasset" SILENT=true
+[2018.09.11-00.13.38:635][687]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/monsieurtoutnu_clone_Sprite_6A872133C439D2C41136BB6B56ADB1592.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/monsieurtoutnu_clone_Sprite_6.uasset'
+[2018.09.11-00.13.38:649][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/monsieurtoutnu_clone_Sprite_7" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/monsieurtoutnu_clone_Sprite_7.uasset" SILENT=true
+[2018.09.11-00.13.38:655][687]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/monsieurtoutnu_clone_Sprite_7AE8DAC8A44C95895F0F81F8F1A49C98C.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/monsieurtoutnu_clone_Sprite_7.uasset'
+[2018.09.11-00.13.38:668][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/Run" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Run.uasset" SILENT=true
+[2018.09.11-00.13.38:673][687]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Run938A0BCB45D7879F99B61496290F4073.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Run.uasset'
+[2018.09.11-00.17.18:392][805]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Manon2D/Maps/Level_00' took 0.025
+[2018.09.11-00.17.18:395][805]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Manon2D/Sprites/Idle] ([1] browsable assets)...
+[2018.09.11-00.17.18:404][805]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Manon2D/Sprites/Idle.Idle]
+[2018.09.11-00.17.18:404][805]OBJ SavePackage: Finished generating thumbnails for package [/Game/Manon2D/Sprites/Idle]
+[2018.09.11-00.17.18:404][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/Idle" FILE="../../../../../GitHub/Manon/Manon2D/Saved/Autosaves/Game/Manon2D/Sprites/Idle_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.09.11-00.17.18:410][805]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Idle_Auto39D1CED99416F7AE2D62F69BFF38B88F6.tmp' to '../../../../../GitHub/Manon/Manon2D/Saved/Autosaves/Game/Manon2D/Sprites/Idle_Auto3.uasset'
+[2018.09.11-00.17.18:411][805]LogFileHelpers: Auto-saving content packages took 0.017
+[2018.09.11-00.17.25:171][307]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Manon2D/BluePrint/BP_MAnon.BP_Manon
+[2018.09.11-00.19.33:790][970]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.09.11-00.19.33:867][971]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Manon2D
+[2018.09.11-00.19.33:867][971]LogTemp: CWD: E:\UnrealEngine\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.11-00.19.33:867][971]LogTemp: Initial Dir: E:\UnrealEngine\Epic Games\UE_4.20
+[2018.09.11-00.19.33:867][971]LogTemp: Env CWD: E:\UnrealEngine\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.11-00.19.33:867][971]LogTemp: BranchPath = USER-PC/E/UnrealEngine/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = USER-PC/E/UnrealEngine/Epic Games/UE_4.20/Engine/Binaries
+[2018.09.11-00.19.33:867][971]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Administrateur\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.09.11-00.19.50:227][ 38]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.11-00.19.50:231][ 38]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.11-00.20.24:361][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/BluePrint/BP_MAnon" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/BluePrint/BP_MAnon.uasset" SILENT=true
+[2018.09.11-00.20.26:333][ 19]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.965 s
+[2018.09.11-00.20.26:333][ 19]LogOutputDevice: Error: === Handled ensure: ===
+[2018.09.11-00.20.26:333][ 19]LogOutputDevice: Error: 
+[2018.09.11-00.20.26:333][ 19]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 219]
+[2018.09.11-00.20.26:333][ 19]LogOutputDevice: Error: Found circular redirect from /Game/Manon2D/BluePrint/BP_MAnon.BP_Manon to /Game/Manon2D/BluePrint/BP_Manon.BP_Manon! Returning None instead
+[2018.09.11-00.20.26:333][ 19]LogOutputDevice: Error: Stack: 
+[2018.09.11-00.20.26:333][ 19]LogOutputDevice: Error: [Callstack] 0x000007feda6a71e6 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.11-00.20.26:333][ 19]LogOutputDevice: Error: [Callstack] 0x000007feda3e0c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.11-00.20.26:333][ 19]LogOutputDevice: Error: [Callstack] 0x000007feda3fb346 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.11-00.20.26:333][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed9bf2ca4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.11-00.20.26:333][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed9f2d873 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed9f3df37 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed9c367f7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed9f3d943 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed9d52f39 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed9ed5066 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed9ed5285 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed9d5572f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed9d52c33 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed9ed5066 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed9e62cb1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed9ed5285 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed9d5572f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed9e64a32 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed9e6133b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed73f6baa UE4Editor-Engine.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed73f64f2 UE4Editor-Engine.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed9eaf05d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed9ed9128 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed9ebea55 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed36aecd6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed36af640 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed36f2e13 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed36ef60b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed3fcda23 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed3aaab44 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed3aa9441 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed3ac0878 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed3fa42b2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed3f437e8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed65d29fe UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.11-00.20.26:334][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed66d5872 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.11-00.20.26:335][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed66b24bf UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.11-00.20.26:335][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed6799c3b UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.11-00.20.26:335][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed65894c5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.11-00.20.26:335][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed6621db2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.11-00.20.26:335][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed6607c7a UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.11-00.20.26:335][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed65fb25c UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.11-00.20.26:335][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed6aad1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.11-00.20.26:335][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed6aa0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.11-00.20.26:335][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed6aaf4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.11-00.20.26:335][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed6a9c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.11-00.20.26:335][ 19]LogOutputDevice: Error: [Callstack] 0x0000000076e99bbd USER32.dll!UnknownFunction []
+[2018.09.11-00.20.26:335][ 19]LogOutputDevice: Error: [Callstack] 0x0000000076e998c2 USER32.dll!UnknownFunction []
+[2018.09.11-00.20.26:335][ 19]LogOutputDevice: Error: [Callstack] 0x000007fed6ab0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.11-00.20.26:335][ 19]LogOutputDevice: Error: [Callstack] 0x000000013f6c54e5 UE4Editor.exe!UnknownFunction []
+[2018.09.11-00.20.26:335][ 19]LogOutputDevice: Error: [Callstack] 0x000000013f6d5b3c UE4Editor.exe!UnknownFunction []
+[2018.09.11-00.20.26:335][ 19]LogOutputDevice: Error: [Callstack] 0x000000013f6d5bba UE4Editor.exe!UnknownFunction []
+[2018.09.11-00.20.26:335][ 19]LogOutputDevice: Error: [Callstack] 0x000000013f6e3dac UE4Editor.exe!UnknownFunction []
+[2018.09.11-00.20.26:335][ 19]LogOutputDevice: Error: [Callstack] 0x000000013f6e5aaa UE4Editor.exe!UnknownFunction []
+[2018.09.11-00.20.26:335][ 19]LogOutputDevice: Error: [Callstack] 0x0000000076d759cd kernel32.dll!UnknownFunction []
+[2018.09.11-00.20.26:335][ 19]LogOutputDevice: Error: [Callstack] 0x0000000076faa561 ntdll.dll!UnknownFunction []
+[2018.09.11-00.20.26:335][ 19]LogOutputDevice: Error: 
+[2018.09.11-00.20.26:340][ 19]LogStats:                SubmitErrorReport -  0.000 s
+[2018.09.11-00.20.30:028][ 19]LogStats:                    SendNewReport -  3.689 s
+[2018.09.11-00.20.30:028][ 19]LogStats:             FDebug::EnsureFailed -  5.661 s
+[2018.09.11-00.20.30:079][ 19]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/BP_MAnon8EF1DB8D43E4170CC5003CA01E992C05.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/BluePrint/BP_MAnon.uasset'
+[2018.09.11-00.20.38:667][755]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.11-00.21.44:842][792]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-00.21.44:855][792]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.11-00.21.44:866][792]LogPlayLevel: [PlayLevel] Compiling BP_Manon before play...
+[2018.09.11-00.21.45:522][792]LogPlayLevel: PlayLevel: Blueprint regeneration took 666 ms (1 blueprints)
+[2018.09.11-00.21.45:522][792]PIE: New page: PIE session: Level_00 (11 sept. 2018 04:21:45)
+[2018.09.11-00.21.45:522][792]LogPlayLevel: Creating play world package: /Game/Manon2D/Maps/UEDPIE_0_Level_00
+[2018.09.11-00.21.45:524][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001914s)
+[2018.09.11-00.21.45:524][792]LogAIModule: Creating AISystem for world Level_00
+[2018.09.11-00.21.45:525][792]LogPlayLevel: PIE: World Init took: (0.000676s)
+[2018.09.11-00.21.45:525][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Manon2D/Maps/Level_00.Level_00 to /Game/Manon2D/Maps/UEDPIE_0_Level_00.Level_00 (0.002697s)
+[2018.09.11-00.21.45:560][792]LogInit: XAudio2 using 'Haut-parleurs (SB X-Fi Xtreme Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.11-00.21.45:574][792]LogInit: FAudioDevice initialized.
+[2018.09.11-00.21.45:603][792]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.11-00.21.45:604][792]LogWorld: Bringing World /Game/Manon2D/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.09.11-02.21.45
+[2018.09.11-00.21.45:604][792]LogWorld: Bringing up level for play took: 0.000593
+[2018.09.11-00.21.45:617][792]PIE: Play in editor start time for /Game/Manon2D/Maps/UEDPIE_0_Level_00 0,121
+[2018.09.11-00.21.55:056][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.21.55:084][659]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-00.21.55:112][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.21.55:158][663]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.09.11-00.21.56:529][821]LogSlate: Window 'BP_Manon*' being destroyed
+[2018.09.11-00.21.56:533][821]LogSlate: Window 'BP_Manon*' being destroyed
+[2018.09.11-00.21.57:380][913]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-00.21.57:394][913]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-00.21.57:394][913]PIE: New page: PIE session: Level_00 (11 sept. 2018 04:21:57)
+[2018.09.11-00.21.57:394][913]LogPlayLevel: Creating play world package: /Game/Manon2D/Maps/UEDPIE_0_Level_00
+[2018.09.11-00.21.57:396][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002074s)
+[2018.09.11-00.21.57:396][913]LogAIModule: Creating AISystem for world Level_00
+[2018.09.11-00.21.57:397][913]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2018.09.11-00.21.57:397][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Manon2D/Maps/Level_00.Level_00 to /Game/Manon2D/Maps/UEDPIE_0_Level_00.Level_00 (0.002890s)
+[2018.09.11-00.21.57:431][913]LogInit: XAudio2 using 'Haut-parleurs (SB X-Fi Xtreme Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.11-00.21.57:443][913]LogInit: FAudioDevice initialized.
+[2018.09.11-00.21.57:473][913]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.11-00.21.57:474][913]LogWorld: Bringing World /Game/Manon2D/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.09.11-02.21.57
+[2018.09.11-00.21.57:474][913]LogWorld: Bringing up level for play took: 0.000600
+[2018.09.11-00.21.57:486][913]PIE: Play in editor start time for /Game/Manon2D/Maps/UEDPIE_0_Level_00 -0,009
+[2018.09.11-00.22.11:967][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.22.11:997][647]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-00.22.12:024][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.22.12:071][651]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.09.11-00.22.18:613][784]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.22.20:280][960]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.22.20:398][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Maps/Level_00" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Maps/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.11-00.22.20:452][960]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Level_00C88BF2C940A1E541D47A788370869513.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Maps/Level_00.umap'
+[2018.09.11-00.22.20:470][960]LogFileHelpers: Saving map 'Level_00' took 0.150
+[2018.09.11-00.22.20:472][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/BluePrint/BP_MAnon" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/BluePrint/BP_MAnon.uasset" SILENT=true
+[2018.09.11-00.22.20:508][960]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/BP_MAnon03E03C8B467B14DD1CE088A53E4E3F48.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/BluePrint/BP_MAnon.uasset'
+[2018.09.11-00.22.20:512][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Sprites/Idle" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Idle.uasset" SILENT=true
+[2018.09.11-00.22.20:515][960]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Idle819C08E5487A8A43031CFA903013E26A.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Sprites/Idle.uasset'
+[2018.09.11-00.23.04:862][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.23.05:061][170]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Manon2D/BluePrint/BP_MAnon.BP_Manon
+[2018.09.11-00.23.26:642][499]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.23.30:660][861]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.23.46:637][340]LogEditorTransaction: Undo Modify Component(s)
+[2018.09.11-00.23.50:386][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.24.02:762][399]LogClass: Warning: In asset 'None', there is an enum property of type 'ECameraProjectionMode' with an invalid value of ''
+[2018.09.11-00.24.08:969][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/BluePrint/BP_MAnon" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/BluePrint/BP_MAnon.uasset" SILENT=true
+[2018.09.11-00.24.09:004][615]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/BP_MAnon485AF4FC4CA3BB5123F5CEB03E5CAEA8.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/BluePrint/BP_MAnon.uasset'
+[2018.09.11-00.24.09:514][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.24.09:598][663]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-00.24.09:612][663]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.11-00.24.09:622][663]LogPlayLevel: [PlayLevel] Compiling BP_Manon before play...
+[2018.09.11-00.24.09:784][663]LogPlayLevel: PlayLevel: Blueprint regeneration took 172 ms (1 blueprints)
+[2018.09.11-00.24.09:785][663]PIE: New page: PIE session: Level_00 (11 sept. 2018 04:24:09)
+[2018.09.11-00.24.09:785][663]LogPlayLevel: Creating play world package: /Game/Manon2D/Maps/UEDPIE_0_Level_00
+[2018.09.11-00.24.09:787][663]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001900s)
+[2018.09.11-00.24.09:787][663]LogAIModule: Creating AISystem for world Level_00
+[2018.09.11-00.24.09:787][663]LogPlayLevel: PIE: World Init took: (0.000652s)
+[2018.09.11-00.24.09:787][663]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Manon2D/Maps/Level_00.Level_00 to /Game/Manon2D/Maps/UEDPIE_0_Level_00.Level_00 (0.002661s)
+[2018.09.11-00.24.09:822][663]LogInit: XAudio2 using 'Haut-parleurs (SB X-Fi Xtreme Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.11-00.24.09:834][663]LogInit: FAudioDevice initialized.
+[2018.09.11-00.24.09:864][663]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.11-00.24.09:865][663]LogWorld: Bringing World /Game/Manon2D/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.09.11-02.24.09
+[2018.09.11-00.24.09:865][663]LogWorld: Bringing up level for play took: 0.000611
+[2018.09.11-00.24.09:879][663]PIE: Play in editor start time for /Game/Manon2D/Maps/UEDPIE_0_Level_00 0,381
+[2018.09.11-00.24.14:728][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.24.14:757][126]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-00.24.14:784][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.24.14:837][130]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.09.11-00.24.17:183][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.24.17:281][286]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-00.24.17:295][286]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-00.24.17:295][286]PIE: New page: PIE session: Level_00 (11 sept. 2018 04:24:17)
+[2018.09.11-00.24.17:295][286]LogPlayLevel: Creating play world package: /Game/Manon2D/Maps/UEDPIE_0_Level_00
+[2018.09.11-00.24.17:297][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002100s)
+[2018.09.11-00.24.17:298][286]LogAIModule: Creating AISystem for world Level_00
+[2018.09.11-00.24.17:298][286]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2018.09.11-00.24.17:298][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Manon2D/Maps/Level_00.Level_00 to /Game/Manon2D/Maps/UEDPIE_0_Level_00.Level_00 (0.002941s)
+[2018.09.11-00.24.17:331][286]LogInit: XAudio2 using 'Haut-parleurs (SB X-Fi Xtreme Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.11-00.24.17:343][286]LogInit: FAudioDevice initialized.
+[2018.09.11-00.24.17:369][286]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.11-00.24.17:370][286]LogWorld: Bringing World /Game/Manon2D/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.09.11-02.24.17
+[2018.09.11-00.24.17:370][286]LogWorld: Bringing up level for play took: 0.000618
+[2018.09.11-00.24.17:382][286]PIE: Play in editor start time for /Game/Manon2D/Maps/UEDPIE_0_Level_00 -0,115
+[2018.09.11-00.24.27:328][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.24.27:357][256]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-00.24.27:385][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.24.27:433][259]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.09.11-00.24.28:382][346]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.24.47:761][650]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.24.48:066][650]LogEditorViewport: Clicking Background
+[2018.09.11-00.24.50:632][735]LogEditorViewport: Clicking Background
+[2018.09.11-00.24.54:709][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.26.03:385][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.26.36:402][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.27.05:785][809]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.09.11-00.27.39:971][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.27.51:587][207]LogEditorTransaction: Undo Modify Component(s)
+[2018.09.11-00.27.52:896][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.28.13:276][289]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.28.16:313][568]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.28.33:251][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.28.42:195][988]LogEditorTransaction: Undo Modify Component(s)
+[2018.09.11-00.28.45:010][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.28.51:806][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/BluePrint/BP_MAnon" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/BluePrint/BP_MAnon.uasset" SILENT=true
+[2018.09.11-00.28.51:881][612]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/BP_MAnon89CB6D6A446F0C8DAAC0AB9519B0E3AB.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/BluePrint/BP_MAnon.uasset'
+[2018.09.11-00.29.01:115][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.29.35:903][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.30.25:249][208]LogClass: Warning: In asset 'None', there is an enum property of type 'ECameraProjectionMode' with an invalid value of ''
+[2018.09.11-00.30.25:265][208]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.30.32:816][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.31.09:809][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/BluePrint/BP_MAnon" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/BluePrint/BP_MAnon.uasset" SILENT=true
+[2018.09.11-00.31.09:849][663]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/BP_MAnonBF52702C44B67DE79D47B19E6D67D128.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/BluePrint/BP_MAnon.uasset'
+[2018.09.11-00.31.11:546][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.31.11:652][828]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-00.31.11:666][828]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.11-00.31.11:677][828]LogPlayLevel: [PlayLevel] Compiling BP_Manon before play...
+[2018.09.11-00.31.11:903][828]LogPlayLevel: PlayLevel: Blueprint regeneration took 237 ms (1 blueprints)
+[2018.09.11-00.31.11:904][828]PIE: New page: PIE session: Level_00 (11 sept. 2018 04:31:11)
+[2018.09.11-00.31.11:904][828]LogPlayLevel: Creating play world package: /Game/Manon2D/Maps/UEDPIE_0_Level_00
+[2018.09.11-00.31.11:906][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002533s)
+[2018.09.11-00.31.11:907][828]LogAIModule: Creating AISystem for world Level_00
+[2018.09.11-00.31.11:907][828]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2018.09.11-00.31.11:907][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Manon2D/Maps/Level_00.Level_00 to /Game/Manon2D/Maps/UEDPIE_0_Level_00.Level_00 (0.003375s)
+[2018.09.11-00.31.11:941][828]LogInit: XAudio2 using 'Haut-parleurs (SB X-Fi Xtreme Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.11-00.31.11:954][828]LogInit: FAudioDevice initialized.
+[2018.09.11-00.31.11:985][828]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.11-00.31.11:986][828]LogWorld: Bringing World /Game/Manon2D/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.09.11-02.31.11
+[2018.09.11-00.31.11:986][828]LogWorld: Bringing up level for play took: 0.000599
+[2018.09.11-00.31.11:998][828]PIE: Play in editor start time for /Game/Manon2D/Maps/UEDPIE_0_Level_00 0,494
+[2018.09.11-00.31.14:749][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.31.14:778][ 86]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-00.31.14:806][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.31.14:848][ 89]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.09.11-00.31.16:656][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.31.16:751][213]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-00.31.16:764][213]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-00.31.16:764][213]PIE: New page: PIE session: Level_00 (11 sept. 2018 04:31:16)
+[2018.09.11-00.31.16:764][213]LogPlayLevel: Creating play world package: /Game/Manon2D/Maps/UEDPIE_0_Level_00
+[2018.09.11-00.31.16:766][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002038s)
+[2018.09.11-00.31.16:767][213]LogAIModule: Creating AISystem for world Level_00
+[2018.09.11-00.31.16:767][213]LogPlayLevel: PIE: World Init took: (0.000882s)
+[2018.09.11-00.31.16:767][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Manon2D/Maps/Level_00.Level_00 to /Game/Manon2D/Maps/UEDPIE_0_Level_00.Level_00 (0.003038s)
+[2018.09.11-00.31.16:801][213]LogInit: XAudio2 using 'Haut-parleurs (SB X-Fi Xtreme Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.11-00.31.16:812][213]LogInit: FAudioDevice initialized.
+[2018.09.11-00.31.16:837][213]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.11-00.31.16:838][213]LogWorld: Bringing World /Game/Manon2D/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.09.11-02.31.16
+[2018.09.11-00.31.16:839][213]LogWorld: Bringing up level for play took: 0.000762
+[2018.09.11-00.31.16:850][213]PIE: Play in editor start time for /Game/Manon2D/Maps/UEDPIE_0_Level_00 -0,654
+[2018.09.11-00.31.29:397][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.31.29:430][427]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-00.31.29:459][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.31.29:497][429]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.09.11-00.31.33:497][798]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.31.45:523][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.31.45:762][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/BluePrint/BP_MAnon" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/BluePrint/BP_MAnon.uasset" SILENT=true
+[2018.09.11-00.31.45:802][174]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/BP_MAnon2ED436D9476DE3A2684D5F9CDE5E905B.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/BluePrint/BP_MAnon.uasset'
+[2018.09.11-00.31.45:906][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.31.46:077][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/BluePrint/BP_MAnon" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/BluePrint/BP_MAnon.uasset" SILENT=true
+[2018.09.11-00.31.46:116][194]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/BP_MAnon228472D14927942742B2089862A69E19.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/BluePrint/BP_MAnon.uasset'
+[2018.09.11-00.31.48:969][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.31.49:106][467]LogSlate: Window 'BP_Manon' being destroyed
+[2018.09.11-00.31.49:109][467]LogSlate: Window 'BP_Manon' being destroyed
+[2018.09.11-00.32.10:307][997]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.32.11:676][160]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.33.47:675][288]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.09.11-00.33.47:677][288]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.09.11-00.33.48:764][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.33.48:881][416]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-00.33.48:893][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-00.33.48:893][416]PIE: New page: PIE session: Level_00 (11 sept. 2018 04:33:48)
+[2018.09.11-00.33.48:893][416]LogPlayLevel: Creating play world package: /Game/Manon2D/Maps/UEDPIE_0_Level_00
+[2018.09.11-00.33.48:896][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002453s)
+[2018.09.11-00.33.48:896][416]LogAIModule: Creating AISystem for world Level_00
+[2018.09.11-00.33.48:897][416]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2018.09.11-00.33.48:897][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Manon2D/Maps/Level_00.Level_00 to /Game/Manon2D/Maps/UEDPIE_0_Level_00.Level_00 (0.003277s)
+[2018.09.11-00.33.48:928][416]LogInit: XAudio2 using 'Haut-parleurs (SB X-Fi Xtreme Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.11-00.33.48:941][416]LogInit: FAudioDevice initialized.
+[2018.09.11-00.33.48:969][416]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.11-00.33.48:970][416]LogWorld: Bringing World /Game/Manon2D/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.09.11-02.33.48
+[2018.09.11-00.33.48:970][416]LogWorld: Bringing up level for play took: 0.000599
+[2018.09.11-00.33.48:982][416]PIE: Play in editor start time for /Game/Manon2D/Maps/UEDPIE_0_Level_00 -0,525
+[2018.09.11-00.34.09:466][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.34.09:499][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-00.34.09:525][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.34.09:571][874]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.09.11-00.34.15:807][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.34.15:992][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Maps/Level_00" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Maps/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.11-00.34.16:080][284]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Level_007E9FB6E0403181D45E27FCB34F921020.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Maps/Level_00.umap'
+[2018.09.11-00.34.16:102][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Maps/Level_00_BuiltData" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Maps/Level_00_BuiltData.uasset" SILENT=true
+[2018.09.11-00.34.16:115][284]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Level_00_BuiltDataCEFE319B4A13BAE46E22CD92C7B5A896.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Maps/Level_00_BuiltData.uasset'
+[2018.09.11-00.34.17:177][409]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.35.08:850][334]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.35.12:154][709]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.09.11-00.35.13:164][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.09.11-00.35.29:567][412]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.09.11-00.35.31:616][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.35.41:543][825]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.35.43:325][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.37.42:459][768]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.09.11-00.37.42:462][768]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.09.11-00.37.45:492][116]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.37.46:499][235]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.38.21:425][200]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.09.11-00.38.21:428][200]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.09.11-00.38.32:221][474]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.38.46:570][190]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.38.47:785][335]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.40.38:447][942]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.09.11-00.40.38:451][942]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.09.11-00.40.46:039][830]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.40.53:257][691]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.41.12:418][972]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.41.13:444][ 92]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.09.11-00.41.27:313][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.41.29:055][201]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.41.29:134][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Maps/Level_00" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Maps/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.11-00.41.29:205][201]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Level_0088A04E3644CFFB86F001CF80B68187A0.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Maps/Level_00.umap'
+[2018.09.11-00.41.29:228][201]LogFileHelpers: Saving map 'Level_00' took 0.157
+[2018.09.11-00.41.30:682][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.41.30:807][372]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-00.41.30:819][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-00.41.30:819][372]PIE: New page: PIE session: Level_00 (11 sept. 2018 04:41:30)
+[2018.09.11-00.41.30:819][372]LogPlayLevel: Creating play world package: /Game/Manon2D/Maps/UEDPIE_0_Level_00
+[2018.09.11-00.41.30:821][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002027s)
+[2018.09.11-00.41.30:821][372]LogAIModule: Creating AISystem for world Level_00
+[2018.09.11-00.41.30:822][372]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2018.09.11-00.41.30:822][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Manon2D/Maps/Level_00.Level_00 to /Game/Manon2D/Maps/UEDPIE_0_Level_00.Level_00 (0.002825s)
+[2018.09.11-00.41.30:853][372]LogInit: XAudio2 using 'Haut-parleurs (SB X-Fi Xtreme Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.11-00.41.30:865][372]LogInit: FAudioDevice initialized.
+[2018.09.11-00.41.30:892][372]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.11-00.41.30:894][372]LogWorld: Bringing World /Game/Manon2D/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.09.11-02.41.30
+[2018.09.11-00.41.30:894][372]LogWorld: Bringing up level for play took: 0.000618
+[2018.09.11-00.41.30:907][372]PIE: Play in editor start time for /Game/Manon2D/Maps/UEDPIE_0_Level_00 -0,608
+[2018.09.11-00.41.43:050][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.41.43:083][823]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-00.41.43:109][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.41.43:162][827]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.09.11-00.41.45:598][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.41.45:779][139]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Manon2D/BluePrint/BP_MAnon.BP_Manon
+[2018.09.11-00.42.14:972][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.42.15:096][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/BluePrint/BP_MAnon" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/BluePrint/BP_MAnon.uasset" SILENT=true
+[2018.09.11-00.42.15:144][821]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/BP_MAnon2610D36E45A1FDA65482C7A38F521E82.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/BluePrint/BP_MAnon.uasset'
+[2018.09.11-00.42.16:096][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.42.16:294][921]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-00.42.16:308][921]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.11-00.42.16:319][921]LogPlayLevel: [PlayLevel] Compiling BP_Manon before play...
+[2018.09.11-00.42.16:505][921]LogPlayLevel: PlayLevel: Blueprint regeneration took 196 ms (1 blueprints)
+[2018.09.11-00.42.16:505][921]PIE: New page: PIE session: Level_00 (11 sept. 2018 04:42:16)
+[2018.09.11-00.42.16:505][921]LogPlayLevel: Creating play world package: /Game/Manon2D/Maps/UEDPIE_0_Level_00
+[2018.09.11-00.42.16:507][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002002s)
+[2018.09.11-00.42.16:508][921]LogAIModule: Creating AISystem for world Level_00
+[2018.09.11-00.42.16:508][921]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2018.09.11-00.42.16:508][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Manon2D/Maps/Level_00.Level_00 to /Game/Manon2D/Maps/UEDPIE_0_Level_00.Level_00 (0.002933s)
+[2018.09.11-00.42.16:542][921]LogInit: XAudio2 using 'Haut-parleurs (SB X-Fi Xtreme Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.11-00.42.16:555][921]LogInit: FAudioDevice initialized.
+[2018.09.11-00.42.16:583][921]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.11-00.42.16:584][921]LogWorld: Bringing World /Game/Manon2D/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.09.11-02.42.16
+[2018.09.11-00.42.16:584][921]LogWorld: Bringing up level for play took: 0.000601
+[2018.09.11-00.42.16:596][921]PIE: Play in editor start time for /Game/Manon2D/Maps/UEDPIE_0_Level_00 1,081
+[2018.09.11-00.42.18:961][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.42.18:992][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-00.42.19:019][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.42.19:116][172]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2018.09.11-00.42.21:329][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.42.21:437][373]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-00.42.21:451][373]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-00.42.21:451][373]PIE: New page: PIE session: Level_00 (11 sept. 2018 04:42:21)
+[2018.09.11-00.42.21:451][373]LogPlayLevel: Creating play world package: /Game/Manon2D/Maps/UEDPIE_0_Level_00
+[2018.09.11-00.42.21:453][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002058s)
+[2018.09.11-00.42.21:454][373]LogAIModule: Creating AISystem for world Level_00
+[2018.09.11-00.42.21:454][373]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2018.09.11-00.42.21:454][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Manon2D/Maps/Level_00.Level_00 to /Game/Manon2D/Maps/UEDPIE_0_Level_00.Level_00 (0.002869s)
+[2018.09.11-00.42.21:487][373]LogInit: XAudio2 using 'Haut-parleurs (SB X-Fi Xtreme Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.11-00.42.21:499][373]LogInit: FAudioDevice initialized.
+[2018.09.11-00.42.21:527][373]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.11-00.42.21:528][373]LogWorld: Bringing World /Game/Manon2D/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.09.11-02.42.21
+[2018.09.11-00.42.21:528][373]LogWorld: Bringing up level for play took: 0.000613
+[2018.09.11-00.42.21:542][373]PIE: Play in editor start time for /Game/Manon2D/Maps/UEDPIE_0_Level_00 0,026
+[2018.09.11-00.42.24:215][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.42.24:243][666]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-00.42.24:270][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.42.24:317][670]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2018.09.11-00.43.17:009][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.43.23:263][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/BluePrint/BP_MAnon" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/BluePrint/BP_MAnon.uasset" SILENT=true
+[2018.09.11-00.43.23:298][164]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/BP_MAnon1E12BACE4ABF35ECD5C6539565E3CACF.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/BluePrint/BP_MAnon.uasset'
+[2018.09.11-00.43.26:762][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.44.29:560][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/BluePrint/BP_MAnon" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/BluePrint/BP_MAnon.uasset" SILENT=true
+[2018.09.11-00.44.29:598][160]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/BP_MAnonC585AED44D2F9E8A2F2EA7A023E4C68A.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/BluePrint/BP_MAnon.uasset'
+[2018.09.11-00.44.31:183][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.44.31:261][305]LogSlate: Window 'BP_Manon' being destroyed
+[2018.09.11-00.44.31:263][305]LogSlate: Window 'BP_Manon' being destroyed
+[2018.09.11-00.44.31:987][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.44.32:087][394]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-00.44.32:099][394]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.11-00.44.32:109][394]LogPlayLevel: [PlayLevel] Compiling BP_Manon before play...
+[2018.09.11-00.44.32:159][394]LogPlayLevel: PlayLevel: Blueprint regeneration took 60 ms (1 blueprints)
+[2018.09.11-00.44.32:160][394]PIE: New page: PIE session: Level_00 (11 sept. 2018 04:44:32)
+[2018.09.11-00.44.32:160][394]LogPlayLevel: Creating play world package: /Game/Manon2D/Maps/UEDPIE_0_Level_00
+[2018.09.11-00.44.32:162][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001972s)
+[2018.09.11-00.44.32:162][394]LogAIModule: Creating AISystem for world Level_00
+[2018.09.11-00.44.32:162][394]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2018.09.11-00.44.32:162][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Manon2D/Maps/Level_00.Level_00 to /Game/Manon2D/Maps/UEDPIE_0_Level_00.Level_00 (0.002720s)
+[2018.09.11-00.44.32:195][394]LogInit: XAudio2 using 'Haut-parleurs (SB X-Fi Xtreme Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.11-00.44.32:207][394]LogInit: FAudioDevice initialized.
+[2018.09.11-00.44.32:237][394]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.11-00.44.32:238][394]LogWorld: Bringing World /Game/Manon2D/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.09.11-02.44.32
+[2018.09.11-00.44.32:238][394]LogWorld: Bringing up level for play took: 0.000629
+[2018.09.11-00.44.32:250][394]PIE: Play in editor start time for /Game/Manon2D/Maps/UEDPIE_0_Level_00 0,732
+[2018.09.11-00.44.42:320][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.44.42:350][598]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-00.44.42:376][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.44.42:444][602]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2018.09.11-00.44.46:801][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.44.46:974][136]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Manon2D/BluePrint/BP_MAnon.BP_Manon
+[2018.09.11-00.45.18:020][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.47.42:947][112]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-00.47.42:963][112]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.11-00.47.42:974][112]LogPlayLevel: [PlayLevel] Compiling BP_Manon before play...
+[2018.09.11-00.47.43:168][112]LogPlayLevel: PlayLevel: Blueprint regeneration took 205 ms (1 blueprints)
+[2018.09.11-00.47.43:168][112]PIE: New page: PIE session: Level_00 (11 sept. 2018 04:47:43)
+[2018.09.11-00.47.43:168][112]LogPlayLevel: Creating play world package: /Game/Manon2D/Maps/UEDPIE_0_Level_00
+[2018.09.11-00.47.43:170][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001968s)
+[2018.09.11-00.47.43:171][112]LogAIModule: Creating AISystem for world Level_00
+[2018.09.11-00.47.43:171][112]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2018.09.11-00.47.43:171][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Manon2D/Maps/Level_00.Level_00 to /Game/Manon2D/Maps/UEDPIE_0_Level_00.Level_00 (0.002906s)
+[2018.09.11-00.47.43:205][112]LogInit: XAudio2 using 'Haut-parleurs (SB X-Fi Xtreme Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.11-00.47.43:218][112]LogInit: FAudioDevice initialized.
+[2018.09.11-00.47.43:244][112]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.11-00.47.43:245][112]LogWorld: Bringing World /Game/Manon2D/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.09.11-02.47.43
+[2018.09.11-00.47.43:245][112]LogWorld: Bringing up level for play took: 0.000610
+[2018.09.11-00.47.43:257][112]PIE: Play in editor start time for /Game/Manon2D/Maps/UEDPIE_0_Level_00 -0,264
+[2018.09.11-00.47.55:372][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.47.55:403][327]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-00.47.55:445][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.47.55:480][329]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2018.09.11-00.47.58:920][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.48.12:613][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/BluePrint/BP_MAnon" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/BluePrint/BP_MAnon.uasset" SILENT=true
+[2018.09.11-00.48.12:718][993]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/BP_MAnonF44BCFD5413626094309FC8B6F28116B.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/BluePrint/BP_MAnon.uasset'
+[2018.09.11-00.48.14:098][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.48.14:197][154]LogSlate: Window 'BP_Manon' being destroyed
+[2018.09.11-00.48.14:199][154]LogSlate: Window 'BP_Manon' being destroyed
+[2018.09.11-00.48.14:871][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.48.14:963][230]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-00.48.14:977][230]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.11-00.48.14:987][230]LogPlayLevel: [PlayLevel] Compiling BP_Manon before play...
+[2018.09.11-00.48.15:034][230]LogPlayLevel: PlayLevel: Blueprint regeneration took 57 ms (1 blueprints)
+[2018.09.11-00.48.15:034][230]PIE: New page: PIE session: Level_00 (11 sept. 2018 04:48:15)
+[2018.09.11-00.48.15:035][230]LogPlayLevel: Creating play world package: /Game/Manon2D/Maps/UEDPIE_0_Level_00
+[2018.09.11-00.48.15:036][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001888s)
+[2018.09.11-00.48.15:037][230]LogAIModule: Creating AISystem for world Level_00
+[2018.09.11-00.48.15:037][230]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2018.09.11-00.48.15:037][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Manon2D/Maps/Level_00.Level_00 to /Game/Manon2D/Maps/UEDPIE_0_Level_00.Level_00 (0.002667s)
+[2018.09.11-00.48.15:068][230]LogInit: XAudio2 using 'Haut-parleurs (SB X-Fi Xtreme Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.11-00.48.15:080][230]LogInit: FAudioDevice initialized.
+[2018.09.11-00.48.15:110][230]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.11-00.48.15:112][230]LogWorld: Bringing World /Game/Manon2D/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.09.11-02.48.15
+[2018.09.11-00.48.15:112][230]LogWorld: Bringing up level for play took: 0.000609
+[2018.09.11-00.48.15:125][230]PIE: Play in editor start time for /Game/Manon2D/Maps/UEDPIE_0_Level_00 -0,397
+[2018.09.11-00.48.21:159][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.48.21:192][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-00.48.21:219][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.48.21:308][951]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2018.09.11-00.48.22:146][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.48.22:249][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Maps/Level_00" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Maps/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.11-00.48.22:302][ 59]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Level_00364217844EE85C5E066605A04B204142.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Maps/Level_00.umap'
+[2018.09.11-00.48.22:323][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Manon2D/Maps/Level_00_BuiltData" FILE="../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Maps/Level_00_BuiltData.uasset" SILENT=true
+[2018.09.11-00.48.22:335][ 59]LogSavePackage: Moving '../../../../../GitHub/Manon/Manon2D/Saved/Level_00_BuiltData1063CBA94C61D85C53AA4CB81014A3A4.tmp' to '../../../../../GitHub/Manon/Manon2D/Content/Manon2D/Maps/Level_00_BuiltData.uasset'
+[2018.09.11-00.48.23:325][175]LogSlate: FSceneViewport::OnFocusLost() reason 2
